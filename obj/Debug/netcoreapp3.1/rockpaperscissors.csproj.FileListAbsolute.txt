@@ -1,0 +1,13 @@
+C:\Users\3fred\Desktop\rockpaperscissors\bin\Debug\netcoreapp3.1\rockpaperscissors.exe
+C:\Users\3fred\Desktop\rockpaperscissors\bin\Debug\netcoreapp3.1\rockpaperscissors.deps.json
+C:\Users\3fred\Desktop\rockpaperscissors\bin\Debug\netcoreapp3.1\rockpaperscissors.runtimeconfig.json
+C:\Users\3fred\Desktop\rockpaperscissors\bin\Debug\netcoreapp3.1\rockpaperscissors.runtimeconfig.dev.json
+C:\Users\3fred\Desktop\rockpaperscissors\bin\Debug\netcoreapp3.1\rockpaperscissors.dll
+C:\Users\3fred\Desktop\rockpaperscissors\bin\Debug\netcoreapp3.1\rockpaperscissors.pdb
+C:\Users\3fred\Desktop\rockpaperscissors\obj\Debug\netcoreapp3.1\rockpaperscissors.csprojAssemblyReference.cache
+C:\Users\3fred\Desktop\rockpaperscissors\obj\Debug\netcoreapp3.1\rockpaperscissors.AssemblyInfoInputs.cache
+C:\Users\3fred\Desktop\rockpaperscissors\obj\Debug\netcoreapp3.1\rockpaperscissors.AssemblyInfo.cs
+C:\Users\3fred\Desktop\rockpaperscissors\obj\Debug\netcoreapp3.1\rockpaperscissors.csproj.CoreCompileInputs.cache
+C:\Users\3fred\Desktop\rockpaperscissors\obj\Debug\netcoreapp3.1\rockpaperscissors.dll
+C:\Users\3fred\Desktop\rockpaperscissors\obj\Debug\netcoreapp3.1\rockpaperscissors.pdb
+C:\Users\3fred\Desktop\rockpaperscissors\obj\Debug\netcoreapp3.1\rockpaperscissors.genruntimeconfig.cache
